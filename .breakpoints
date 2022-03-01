@@ -1,0 +1,28 @@
+{
+  "files": {
+    "camera.py": [
+      {
+        "id": "807f4cda-6591-41fb-9c38-94a01cda80bc",
+        "line": 63,
+        "version": 4469,
+        "index": 2021
+      }
+    ],
+    "enemy_behavior.py": [
+      {
+        "id": "6e8c9eed-378c-4bcf-998e-7857a1602301",
+        "line": 9,
+        "version": 131,
+        "index": 129
+      }
+    ],
+    "source/__init__.py": [
+      {
+        "id": "5291c3fc-97c1-43c0-9aee-314afaf12d18",
+        "line": 1,
+        "version": 29,
+        "index": 0
+      }
+    ]
+  }
+}

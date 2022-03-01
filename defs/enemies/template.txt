@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<def>
+    <enemy class_name="">
+        <name>str</name>
+        <hp>int</hp>
+        <power>int</power>
+        <sprite>
+            <ch>str</ch>
+            <image>image path</image>
+        </sprite>
+        <behavior>script path</behavior>
+        <on_create>script path</on_create>
+        <on_destroy>script path</on_destroy>
+    </enemy>
+</def>

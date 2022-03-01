@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<defs>
+    <enemy class_name="Slime">
+        <name>Slime</name>
+        <hp>20</hp>
+        <power>5</power>
+        <sprite>
+            <ch>S</ch>
+            <image></image>
+        </sprite>
+        <behavior></behavior>
+        <on_create></on_create>
+        <on_destroy></on_destroy>
+    </enemy>
+
+    <enemy class_name="Flime">
+        <name>Slime</name>
+        <hp>20</hp>
+        <power>5</power>
+        <sprite>
+            <ch>S</ch>
+            <image></image>
+        </sprite>
+        <behavior></behavior>
+        <on_create></on_create>
+        <on_destroy></on_destroy>
+    </enemy>
+</defs>
