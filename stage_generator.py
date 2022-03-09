@@ -14,6 +14,6 @@ class StageGenerator:
         pass
     
 
-class TestStageGenerator(self):
+class TestStageGenerator():
     def create_stage(self) -> Stage:
-        
+        pass
